@@ -239,7 +239,7 @@ li{
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid #13103a9d;
+    border: 2px solid #ef0253;
     border-radius: 5px;
 }
 
@@ -247,7 +247,7 @@ li{
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
-    border: 2px solid #2D25A0;
+    border: 2px solid #ef0253;
     background-image: linear-gradient(to right, #2d25a0cb, #3b182598);
     color: white;
     border-radius: 5px;
@@ -257,7 +257,7 @@ li{
     margin: 10% 0;
 }
 .newsLetter>h1 {
-    color: #2D25A0;
+    color: #ef0253;
     font-size: 80%;
     padding-left: 5%;
 }
@@ -268,7 +268,7 @@ li{
 }
 
 .newsLetter>h1{
-    color: #2D25A0;
+    color: #ef0253;
 }
 /*-----------footer section start----------*/
 .footer-section{
