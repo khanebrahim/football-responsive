@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41600e35-4667-4a88-83f9-c565419049c8" name="Changes" comment="CHANGE DIV" />
+    <list default="true" id="41600e35-4667-4a88-83f9-c565419049c8" name="Changes" comment="CHANGE DIV">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +44,7 @@
       <workItem from="1647584149632" duration="93000" />
       <workItem from="1647584251476" duration="5535000" />
       <workItem from="1647786513897" duration="7130000" />
-      <workItem from="1647845243597" duration="10018000" />
+      <workItem from="1647845243597" duration="10439000" />
     </task>
     <task id="LOCAL-00001" summary="CHANGE DIV">
       <created>1647155586995</created>
